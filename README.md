@@ -13,5 +13,5 @@
 
 ## Tech & Interests
 - 🧰 Languages: C/C++, Python, Java
-- 🔭 Focus: Embedded Systems, Robotics, Gaming, Artificial Intelligence
+- 🔭 Focus: Embedded Systems, Robotics, Artificial Intelligence, Gaming
 - ❤️ Interests: Basketball, Working Out, Music, Video Games

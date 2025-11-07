@@ -8,6 +8,7 @@
 - 🎓 Education: Toronto Metropolitan University (2021-2025)
 
 ## Featured Projects
+- 🏎️ [Hack the Track](https://github.com/cthanges/Hack-the-Track)
 - 💾 [ESP32 CHIP-8 Emulator](https://github.com/cthanges/ESP32-CHIP-8-Emulator)
 - 🕹️ [Media Center](https://github.com/cthanges/University-Projects/tree/main/Media-Center)
 

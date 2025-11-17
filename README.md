@@ -8,7 +8,7 @@
 - 🎓 Education: Toronto Metropolitan University (2021-2025)
 
 ## Featured Projects
-- 🏎️ [GuidoAI](https://github.com/cthanges/GuidoAI)
+- 🏎️ [GuidoPro](https://github.com/cthanges/GuidoPro)
 - 💾 [ESP32 CHIP-8 Emulator](https://github.com/cthanges/ESP32-CHIP-8-Emulator)
 - 🕹️ [Media Center](https://github.com/cthanges/University-Projects/tree/main/Media-Center)
 

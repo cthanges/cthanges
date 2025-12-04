@@ -10,7 +10,7 @@
 ## Featured Projects
 - 🏎️ [GuidoPro](https://github.com/cthanges/GuidoPro)
 - 💾 [ESP32 CHIP-8 Emulator](https://github.com/cthanges/ESP32-CHIP-8-Emulator)
-- 🕹️ [Media Center](https://github.com/cthanges/University-Projects/tree/main/Media-Center)
+- 🕹️ [Media Center](https://github.com/cthanges/Media-Center)
 
 ## Tech & Interests
 - 🧰 Languages: C/C++, Python, Java

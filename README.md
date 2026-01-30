@@ -2,7 +2,7 @@
 [![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)-->
 ## About
-👋 Hey guys, my name is Charran Thangeswaran and I'm a computer engineering graduate!
+👋 Hey guys, my name is Charran Thangeswaran. I'm a computer engineering graduate and an aspiring embedded software engineer!
 
 - 📍 Location: Toronto, Ontario, Canada
 - 🎓 Education: Toronto Metropolitan University (2021-2025)
